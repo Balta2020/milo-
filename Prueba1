@@ -1,0 +1,21 @@
+
+
+#EXTM3U
+#EXTINF:-1,Sportv 1
+https://cdn3.wowza.com/1/UmRJTkFqcDlQVlNn/ZW5ZWDdN/hls/h6bntjhn/2728/chunklist.m3u8?
+#EXTINF:-1,#Vamos
+https://dailysportbucket5.s3.eu-west-2.amazonaws.com/1/1.m3u8
+#EXTINF:-1,Sportv 4
+https://cdn3.wowza.com/1/NXUwUkNXWC84UFAv/OXhJZE5k/hls/jdbgpqbj/2728/chunklist.m3u8?
+#EXTINF:-1, Sports Ingles
+http://45.148.26.176:8081/abr/abr-K-1/playlist.m3u8?
+#EXTINF:-1,Sportv 3
+https://cdn3.wowza.com/1/ek1yY0NlQ3BLQ3Js/anoyd0wy/hls/6y851rcg/2728/chunklist.m3u8?
+#EXTINF:-1,BeinSport ñ
+https://live.api.video/li1IbTe4dAF4Ev9E39T2keAA_480p/index.m3u8?⚽⚽SBN
+#EXTINF:-1,CDF PREMIUM
+http://cdn1502.telerium.site:2052/free15/368/l_2227_28693528_4779.ts?nimblesessionid=8914989&wmsAuthSign=c2VydmVyX3RpbWU9MS8xNC8yMDIxIDU6NTA6MzcgUE0maGFzaF92YWx1ZT0wSjA5UlNKMkpDbHEveldLZWJJY1pBPT0mdmFsaWRtaW51dGVzPTI0MA==
+#EXTINF:-1,FS 1
+http://cdn1502.telerium.site:2052/free15/530/chunks.m3u8?nimblesessionid=8915241&wmsAuthSign=c2VydmVyX3RpbWU9MS8xNC8yMDIxIDY6MDI6MzggUE0maGFzaF92YWx1ZT1ramp4OFZMaTRJVkJYbHJSeVZyY1h3PT0mdmFsaWRtaW51dGVzPTI0MA==
+#EXTINF:-1,TDNUSA
+http://cdn1502.telerium.site:2052/free15/128/chunks.m3u8?nimblesessionid=8915351&wmsAuthSign=c2VydmVyX3RpbWU9MS8xNC8yMDIxIDY6MDg6MzQgUE0maGFzaF92YWx1ZT03Z2luNmJIQ2tudklJeGhUSytCVUpRPT0mdmFsaWRtaW51dGVzPTI0MA==
